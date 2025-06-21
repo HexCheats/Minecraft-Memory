@@ -1,3 +1,14 @@
+
+## 🔧 Installation
+
+Set up and run the project:
+
+```bash
+npm install       # Install dependencies
+npm run build     # Build the project
+npm start         # Start the app
+
+
 # 🧠 Pointer Chain Visualizer
 
 A project that explains how pointers work using tree structures — visualize how a CPU follows pointer chains through memory to retrieve values.
@@ -19,12 +30,3 @@ Visual breakdowns of pointer chains in action:
 | ![](./3.png) | ![](./4.png) |
 
 These illustrate how the CPU walks through memory layers, resolving each offset until it reaches the value node.
-
-## 🔧 Installation
-
-Set up and run the project:
-
-```bash
-npm install       # Install dependencies
-npm run build     # Build the project
-npm start         # Start the app
