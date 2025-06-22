@@ -23,10 +23,10 @@ Visual breakdowns of pointer chains in action:
 
 | Example 1 | Example 2 |
 |----------|-----------|
-| ![](./1.png) | ![](./2.png) |
+| [1.png] | ![2.png] |
 
 | Example 3 | Example 4 |
 |----------|-----------|
-| ![](./3.png) | ![](./4.png) |
+| [3.png] | ![4.png] |
 
 These illustrate how the CPU walks through memory layers, resolving each offset until it reaches the value node.
